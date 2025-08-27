@@ -34,7 +34,7 @@ SkillQuest is a mobile educational platform built with **React Native**. It help
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/20255-CM-055/SkillQuest
     cd SkillQuest
     ```
 

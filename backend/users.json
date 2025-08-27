@@ -1,0 +1,47 @@
+[
+  {
+    "id": "6cd75ceb-f2bb-4fca-819f-2c970d64655e",
+    "name": "Divya sree",
+    "age": "12",
+    "email": "divyakoppadi2005@gmail.com",
+    "password": "292b0a8b2a1d162962e3c68c146d734ad5ee7bd5385a72153d0a9893cae0ebaa",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  },
+  {
+    "id": "d098922e-f4c2-437a-bc59-fe413e290e3b",
+    "name": "Snehitha",
+    "age": "20",
+    "email": "lakshmisnehitha3112@gmail.com",
+    "password": "85548201b85c19f317dbc19273824d5f5aba7da61702c9f996629d3e9087c807",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  },
+  {
+    "id": "f0510a95-c182-4368-be50-27f0b475d1b7",
+    "name": "Divya sri",
+    "age": "19",
+    "email": "koppadidivya01@gmail.com",
+    "password": "2c11a446f96736c98831c0b8fa67ab2fb5660958b16ed74aabfb761f26a938c5",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  },
+  {
+    "id": "bd7230ba-08f4-4a5f-ade3-7b5f64c8c22f",
+    "name": "Nandini",
+    "age": "20",
+    "email": "nandini.satyaa@gmail.com",
+    "password": "fa0b21f6613977ac46b6bf00c284e46f59b3e42d7627001e54e367c416c7c384",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  },
+  {
+    "id": "8b075562-0b68-40f8-a2ff-37652207c21c",
+    "name": "Nandini",
+    "age": "20",
+    "email": "nandinitallapudi@gmail.com",
+    "password": "fa0b21f6613977ac46b6bf00c284e46f59b3e42d7627001e54e367c416c7c384",
+    "resetToken": null,
+    "resetTokenExpiry": null
+  }
+]

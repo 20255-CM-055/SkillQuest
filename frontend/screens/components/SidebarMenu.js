@@ -27,7 +27,7 @@ import Animated, {
   withSpring,
   runOnJS 
 } from 'react-native-reanimated';
-
+// trying the pull request
 const { width, height } = Dimensions.get('window');
 const SIDEBAR_WIDTH = 280;
 
